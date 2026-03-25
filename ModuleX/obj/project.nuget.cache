@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lyYo4V43iYc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alfa\\source\\repos\\OldModuleX\\ModuleX\\ModuleX.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alfa\\.nuget\\packages\\system.reactive\\6.1.0\\system.reactive.6.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

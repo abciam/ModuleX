@@ -1,0 +1,15 @@
+C:\Users\Alfa\source\repos\OldModuleX\test2\bin\Debug\net9.0\test2.deps.json
+C:\Users\Alfa\source\repos\OldModuleX\test2\bin\Debug\net9.0\test2.dll
+C:\Users\Alfa\source\repos\OldModuleX\test2\bin\Debug\net9.0\test2.pdb
+C:\Users\Alfa\source\repos\OldModuleX\test2\bin\Debug\net9.0\Common.dll
+C:\Users\Alfa\source\repos\OldModuleX\test2\bin\Debug\net9.0\Common.pdb
+C:\Users\Alfa\source\repos\OldModuleX\test2\obj\Debug\net9.0\test2.csproj.AssemblyReference.cache
+C:\Users\Alfa\source\repos\OldModuleX\test2\obj\Debug\net9.0\test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfa\source\repos\OldModuleX\test2\obj\Debug\net9.0\test2.AssemblyInfoInputs.cache
+C:\Users\Alfa\source\repos\OldModuleX\test2\obj\Debug\net9.0\test2.AssemblyInfo.cs
+C:\Users\Alfa\source\repos\OldModuleX\test2\obj\Debug\net9.0\test2.csproj.CoreCompileInputs.cache
+C:\Users\Alfa\source\repos\OldModuleX\test2\obj\Debug\net9.0\test2.csproj.Up2Date
+C:\Users\Alfa\source\repos\OldModuleX\test2\obj\Debug\net9.0\test2.dll
+C:\Users\Alfa\source\repos\OldModuleX\test2\obj\Debug\net9.0\refint\test2.dll
+C:\Users\Alfa\source\repos\OldModuleX\test2\obj\Debug\net9.0\test2.pdb
+C:\Users\Alfa\source\repos\OldModuleX\test2\obj\Debug\net9.0\ref\test2.dll
